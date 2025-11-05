@@ -1,5 +1,7 @@
 Nama: Khintan Rachelia Radina Putri
+
 NPM: 2355061009
+
 Kelas: Praktikum JK-A
 
 Berikut saya lampirkan link youtube penjelasan Judul 2 "Build A Switch and Router Network"
